@@ -1,0 +1,71 @@
+2024-07-26 19:32:14,310 Hello world!
+2024-07-26 19:32:14,310 Logger for DEBUG is running! to diable it run test.silent()
+2024-07-26 19:32:14,311 STUN request via stun.ekiga.net
+2024-07-26 19:32:14,312 Hello world!
+2024-07-26 19:32:14,312 Logger for DEBUG is running! to diable it run test.silent()
+2024-07-26 19:32:14,312 STUN request via stun.ekiga.net
+2024-07-26 19:32:14,313 [WinError 10048] Обычно разрешается только одно использование адреса сокета (протокол/сетевой адрес/порт)
+2024-07-26 19:32:14,314 No save file exists! New one created
+2024-07-26 19:32:15,192 Starting new HTTP connection (1): ipinfo.io:80
+2024-07-26 19:32:15,451 http://ipinfo.io:80 "GET /188.191.29.54 HTTP/1.1" 403 308
+2024-07-26 19:32:15,451 Expecting value: line 2 column 1 (char 1)
+2024-07-26 19:32:40,211 Hello world!
+2024-07-26 19:32:40,212 Logger for DEBUG is running! to diable it run test.silent()
+2024-07-26 19:32:40,212 STUN request via stun.ekiga.net
+2024-07-26 19:32:41,072 Starting new HTTP connection (1): ipinfo.io:80
+2024-07-26 19:32:41,273 http://ipinfo.io:80 "GET /188.191.29.54 HTTP/1.1" 403 308
+2024-07-26 19:32:41,274 Expecting value: line 2 column 1 (char 1)
+2024-07-26 19:33:00,022 STUN request via stun.ekiga.net
+2024-07-26 19:33:00,173 STUN request via stun.ekiga.net
+2024-07-26 19:33:00,327 STUN request via stun.ekiga.net
+2024-07-26 19:33:00,477 STUN request via stun.ekiga.net
+2024-07-26 19:33:00,629 STUN request via stun.ekiga.net
+2024-07-26 19:33:00,781 STUN request via stun.ekiga.net
+2024-07-26 19:33:00,930 STUN request via stun.ekiga.net
+2024-07-26 19:33:01,083 STUN request via stun.ekiga.net
+2024-07-26 19:33:01,235 STUN request via stun.ekiga.net
+2024-07-26 19:33:01,393 STUN request via stun.ekiga.net
+2024-07-26 19:33:01,545 "188.191.29.54",58283
+2024-07-26 19:34:50,103 Hello world!
+2024-07-26 19:34:50,103 Logger for DEBUG is running! to diable it run test.silent()
+2024-07-26 19:34:50,104 STUN request via stun.ekiga.net
+2024-07-26 19:34:51,012 Starting new HTTP connection (1): ipinfo.io:80
+2024-07-26 19:34:51,196 http://ipinfo.io:80 "GET /188.191.29.54 HTTP/1.1" 403 308
+2024-07-26 19:34:51,196 Expecting value: line 2 column 1 (char 1)
+2024-07-26 19:35:00,578 STUN request via stun.ekiga.net
+2024-07-26 19:35:00,729 STUN request via stun.ekiga.net
+2024-07-26 19:35:00,881 STUN request via stun.ekiga.net
+2024-07-26 19:35:01,032 STUN request via stun.ekiga.net
+2024-07-26 19:35:01,181 STUN request via stun.ekiga.net
+2024-07-26 19:35:01,335 STUN request via stun.ekiga.net
+2024-07-26 19:35:01,484 STUN request via stun.ekiga.net
+2024-07-26 19:35:01,633 STUN request via stun.ekiga.net
+2024-07-26 19:35:01,782 STUN request via stun.ekiga.net
+2024-07-26 19:35:01,933 STUN request via stun.ekiga.net
+2024-07-26 19:35:02,085 "188.191.29.54",18692
+2024-07-26 19:35:31,538 Start waiting for handshake with 188.191.29.54:18692
+2024-07-26 19:35:33,539 No handshake with 188.191.29.54:18692 yet...
+2024-07-26 19:35:35,540 No handshake with 188.191.29.54:18692 yet...
+2024-07-26 19:35:37,541 No handshake with 188.191.29.54:18692 yet...
+2024-07-26 19:35:39,542 No handshake with 188.191.29.54:18692 yet...
+2024-07-26 19:35:41,543 No handshake with 188.191.29.54:18692 yet...
+2024-07-26 19:35:43,544 No handshake with 188.191.29.54:18692 yet...
+2024-07-26 19:35:44,054 Start waiting for handshake with 188.191.29.54:58283
+2024-07-26 19:35:45,545 No handshake with 188.191.29.54:18692 yet...
+2024-07-26 19:35:46,055 No handshake with 188.191.29.54:58283 yet...
+2024-07-26 19:35:47,546 No handshake with 188.191.29.54:18692 yet...
+2024-07-26 19:35:48,056 No handshake with 188.191.29.54:58283 yet...
+2024-07-26 19:35:49,547 No handshake with 188.191.29.54:18692 yet...
+2024-07-26 19:35:50,056 No handshake with 188.191.29.54:58283 yet...
+2024-07-26 19:35:51,548 No handshake with 188.191.29.54:18692 yet...
+2024-07-26 19:35:52,058 No handshake with 188.191.29.54:58283 yet...
+2024-07-26 19:35:54,058 No handshake with 188.191.29.54:58283 yet...
+2024-07-26 19:35:56,059 No handshake with 188.191.29.54:58283 yet...
+2024-07-26 19:35:58,060 No handshake with 188.191.29.54:58283 yet...
+2024-07-26 19:36:00,061 No handshake with 188.191.29.54:58283 yet...
+2024-07-26 19:36:05,855 Hello world!
+2024-07-26 19:36:05,855 Logger for DEBUG is running! to diable it run test.silent()
+2024-07-26 19:36:05,856 STUN request via stun.ekiga.net
+2024-07-26 19:36:06,749 Starting new HTTP connection (1): ipinfo.io:80
+2024-07-26 19:36:06,933 http://ipinfo.io:80 "GET /188.191.29.54 HTTP/1.1" 403 308
+2024-07-26 19:36:06,933 Expecting value: line 2 column 1 (char 1)
